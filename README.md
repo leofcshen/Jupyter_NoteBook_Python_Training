@@ -36,9 +36,6 @@
 | 增加選取上一個 cell | Shift-Up<br>Shift-K |
 | 增加選取下一個 cell | Shift-Down<br>Shift-J |
 | 選取所有 cell | Ctrl-A |
-
-| 功能 | 快速鍵 | 說明
-| :--- | :---------: | ---
 | 上方插入一個 cell | A |
 | 下方插入一個 cell | B |
 | 剪下選取的 cells | X |
@@ -76,9 +73,6 @@
 | 刪除整行 | Ctrl-D <br> Ctrl-X |
 | 跳到 cell 開頭 | Ctrl-Home |
 | 跳到 cell 結束 | Ctrl-End |
-
-| 功能 | 快速鍵 | 說明
-| :--- | :---------: | ---
 | 跳到單字開頭 | Ctrl-Left |
 | 跳到單字結尾 | Ctrl-Right |
 | 刪除目前到單字開頭 | Ctrl-Backspace |
